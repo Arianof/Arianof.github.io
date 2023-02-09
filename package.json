@@ -1,7 +1,7 @@
 {
   "name": "interactive-rating-component-react",
   "version": "0.1.0",
-  "homepage": "https://arianof.github.io/interactive-rating-component",
+  "homepage": "https://arianof.github.io/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
