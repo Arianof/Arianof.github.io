@@ -1,0 +1,40 @@
+.thanks-container{
+    width: 310px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid black;
+    padding: 30px 18px;
+    border-radius: 15px;
+    text-align: center;
+    background-color:   hsl(216, 12%, 8%);
+}
+#thanks-logo{
+    border: none;
+    border-radius: 0;
+    background-color: hsl(216, 12%, 8%);
+}
+.user-rate{
+    border-radius: 15px;
+    padding:3px 6px;
+    width: 200px;
+    margin: auto;
+    color: hsl(25, 97%, 53%);
+    font-size: 15px;
+    background-color: hsla(216, 12%, 54%, 0.07);
+}
+.thanks-content{
+    color: hsl(216, 12%, 54%);
+}
+.thanks-header{
+    font-size: 20px;
+    font-weight: 400;
+}
+h2{
+    margin-bottom: 0;
+    color: white;
+}
+div{
+    padding: 5px;
+}
