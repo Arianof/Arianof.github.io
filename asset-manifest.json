@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arianof.github.io/static/css/main.ea6a7c56.css",
+    "main.js": "/Arianof.github.io/static/js/main.d91d00e0.js",
+    "static/media/illustration-thank-you.svg": "/Arianof.github.io/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/Arianof.github.io/index.html",
+    "static/media/icon-star.svg": "/Arianof.github.io/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.ea6a7c56.css.map": "/Arianof.github.io/static/css/main.ea6a7c56.css.map",
+    "main.d91d00e0.js.map": "/Arianof.github.io/static/js/main.d91d00e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea6a7c56.css",
+    "static/js/main.d91d00e0.js"
+  ]
+}
