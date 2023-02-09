@@ -1,8 +1,8 @@
 import React from "react";
 import {useState} from "react";
-import './Form.css'
+import './form.css'
 import star from '../images/icon-star.svg'
-import Submit from "./Submit";
+import Submit from "./submit";
 const RateForm = () =>{
     const[rate , setRate] = useState(0);
     const[isSubmitted, setIsSubmitted] = useState(false);

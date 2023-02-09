@@ -1,5 +1,5 @@
 import React from "react";
-import './Submit.css'
+import './submit.css'
 import thank from '../images/illustration-thank-you.svg'
 const Submit = (props) =>{
     return(
